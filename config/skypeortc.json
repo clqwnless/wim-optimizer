@@ -1,0 +1,6 @@
+{
+  "skypeortc_paths": [
+    "Windows\\SysWOW64\\ortcengine.dll",
+    "Windows\\System32\\ortcengine.dll"
+  ]
+}

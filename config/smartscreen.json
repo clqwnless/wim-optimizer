@@ -1,0 +1,7 @@
+{
+  "smartscreen_paths": [
+    "Windows\\System32\\smartscreen.exe",
+    "Windows\\SysWOW64\\smartscreenps.dll",
+    "Windows\\System32\\smartscreenps.dll"
+  ]
+}

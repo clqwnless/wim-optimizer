@@ -1,0 +1,7 @@
+{
+  "quickassist_paths": [
+    "Windows\\SysWOW64\\quickassist.exe",
+    "Windows\\System32\\quickassist.exe",
+    "ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Quick Assist.lnk"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "xbox_paths": [
+    "Windows\\SysWOW64\\GameBarPresenceWriter.exe",
+    "Windows\\SysWOW64\\GameBarPresenceWriter.proxy.dll",
+    "Windows\\SysWOW64\\GameChatOverlayExt.dll",
+    "Windows\\SysWOW64\\GameChatTranscription.dll",
+    "Windows\\SysWOW64\\GamePanel.exe",
+    "Windows\\SysWOW64\\GamePanelExternalHook.dll"
+  ]
+}

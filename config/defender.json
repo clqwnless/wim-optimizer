@@ -1,0 +1,16 @@
+{
+  "defender_paths": [
+    "Program Files\\Windows Defender",
+    "Program Files\\Windows Defender Advanced Threat Protection",
+    "Program Files (x86)\\Windows Defender",
+    "ProgramData\\Microsoft\\Windows Defender",
+    "ProgramData\\Microsoft\\Windows Defender Advanced Threat Protection",
+    "ProgramData\\Microsoft\\Windows Security Health",
+    "Windows\\System32\\SecurityHealthAgent.dll",
+    "Windows\\System32\\SecurityHealthProxyStub.dll",
+    "Windows\\System32\\SecurityHealthService.exe",
+    "Windows\\System32\\SecurityHealthSSO.dll",
+    "Windows\\System32\\SecurityHealthSystray.exe",
+    "SystemResources\\Microsoft.Windows.SecHealthUI"
+  ]
+}

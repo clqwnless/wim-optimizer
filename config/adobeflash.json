@@ -1,0 +1,8 @@
+{
+  "adobeflash_paths": [
+    "Windows\\SysWOW64\\Macromed",
+    "Windows\\System32\\Macromed",
+    "Windows\\SysWOW64\\FlashPlayerApp.exe",
+    "Windows\\SysWOW64\\FlashPlayerCPLApp.cpl"
+  ]
+}

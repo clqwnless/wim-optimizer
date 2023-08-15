@@ -1,0 +1,8 @@
+{
+  "edge": [
+    "Windows\\System32\\MicrosoftEdgeBCHost.exe",
+    "Windows\\System32\\MicrosoftEdgeCP.exe",
+    "Windows\\System32\\MicrosoftEdgeDevTools.exe",
+    "Windows\\System32\\MicrosoftEdgeSH.exe"
+  ]
+}
