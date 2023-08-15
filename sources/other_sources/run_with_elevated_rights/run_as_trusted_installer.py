@@ -15,8 +15,8 @@ class RunAsTrustedInstaller:
         )
 
         self.command = (
-            f"powershell.exe -executionpolicy bypass " +
-            "-File {self.script_path} " +
+            "powershell.exe -executionpolicy bypass " +
+            f"-File {self.script_path} " +
             f"\"{self.python_path}\" \"{self.on_resume_path}\""
         )
 
