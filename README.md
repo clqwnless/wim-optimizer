@@ -3,6 +3,8 @@ dism, which added in path (by default added in path in windows 10x/windows 11x
 
 python 3.10x
 
+elevate python module
+
 colorama python module
 
 NtObjectManager powershell module
@@ -19,6 +21,10 @@ second: go to powershell dir and run install_nt_object_manager.ps1
 after it install colorama module:
 
 pip install colorama
+
+after installing colorama, install elevate module:
+
+pip install elevate
 
 and finally run "main.py"
 
