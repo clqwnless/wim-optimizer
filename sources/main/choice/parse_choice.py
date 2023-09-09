@@ -428,6 +428,9 @@ class ParseChoice(ShowDefaultMenu):
 
                     clean_choice -= 1
 
+                    if clean_choice not in range(15):
+                        continue
+
                     clear_winsxs = ClearWinSxS(
                         choice=clean_choice
                     )
