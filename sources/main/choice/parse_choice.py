@@ -426,7 +426,10 @@ class ParseChoice(ShowDefaultMenu):
 
                     clean_choice = int(clean_choice)
 
-                    clean_choice -= 1
+                    if clean_choice == 15:
+                        clean_choice -= 2
+                    else:
+                        clean_choice -= 1
 
                     if clean_choice not in range(15):
                         continue
