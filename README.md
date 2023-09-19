@@ -9,6 +9,7 @@ colorama python module
 
 NtObjectManager powershell module
 
+
 # Epilog:
 first of all you need to install "NtObjectManager" module in powershell
 
@@ -28,6 +29,7 @@ pip install elevate
 
 and finally run "main.py"
 
+
 # Notes:
 you need to install "NtObjectManager" powershell module as Administrator
 
@@ -36,8 +38,7 @@ the script runs as TrustedInstaller, so do not use unsafe commands in option 12,
 # Bugs, errors:
 
 
-
-if you find any bugs/errors, please create issue 
+if you found any bug/error, please create issue 
 
 
 # Review:
