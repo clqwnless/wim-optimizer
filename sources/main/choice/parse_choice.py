@@ -427,7 +427,7 @@ class ParseChoice(ShowDefaultMenu):
                     clean_choice = int(clean_choice)
 
                     if clean_choice == 15:
-                        clean_choice -= 2
+                        continue
                     else:
                         clean_choice -= 1
 
